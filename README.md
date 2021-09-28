@@ -9,9 +9,9 @@ Finding Cousins in Binary Tree
 
 ```
  given Tree
-	 				             10
-	 				          /      \
-	 				          6       14
+		             10
+	 	          /      \
+		          6       14
 	                /  \     /   \
 	               5    7   12     18
 	              /      \    \    /  \
